@@ -5,7 +5,7 @@ Après m'être rendu compte de votre véritable niveau, j'ai décidé d'essayer 
 2- vous aurez un petit exercice chaque semaine, et vous viendrez les vendredis où les samedis présenter votre exercice en live coding de 10min devant moi.
 c-a-d, vous mémoriser tous votre code, et vener coder à nouveau.
 
-l'avantage est de vous familiariser aux termes techniques anglais, et vous obliger à chaque fois faire une recherche GOOGLE en Anglais
+le But est de vous familiariser aux termes techniques anglais, et vous obliger à chaque fois faire une recherche GOOGLE en Anglais
 au lieu du francais. le codage a été pensé et realisé en anglais, vous devez penser en anglais.
 il y a que 200 millions de personnes parlant francais sur 7 milliards, et dans les 200 millions, l'Afrique francophone ne rédige presque pas de
 tuto informatique, juste pour vous dire, faire une recherche en francais, diminue votre chance de trouver une solution rapide
