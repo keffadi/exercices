@@ -1,6 +1,6 @@
 ###   Exercice menu
 
-1- refaire un site pareil à celle dans la video suivante: 
+1- refaire un site pareil à celui dans la video suivante: 
 
 2- les éléments importants:  menu, police, video, image PNG sur la vidéo
 
