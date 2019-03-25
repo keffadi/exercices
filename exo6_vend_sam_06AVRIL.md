@@ -9,7 +9,7 @@ Pour l'exercice 06, votre resultat final doit être comme ceci: https://colorlib
 ### Effets à reproduire
 Page loader - Effets sur les textes & images ( we love / we create / architecture /since ) - effet responsive avec le changement de couleur background du menu.
 
-- 
+
 
 ### No responsive
 ![Mosaic_01](https://github.com/keffadi/exercices/blob/master/img/Mosaic_01.jpg)
