@@ -17,7 +17,7 @@ Page loader - Effets sur les textes & images ( we love / we create / architectur
 ### Responsive
 ![Mosaic_02](https://github.com/keffadi/exercices/blob/master/img/Mosaic_02.jpg)
 
-> Pour le living coding:
+> Pour le live coding:
 
 > * se munir d'un dossier contenant les images, vidéo, liens des polices et bootstrap ( sauf les pages html, css et JS).
 > * Pour ne pas ouvrir le site en plein exercice, vous pouvez venir avec le screenshot du site.
