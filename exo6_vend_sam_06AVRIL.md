@@ -4,7 +4,7 @@
 hello NaNien
 
 Pour l'exercice 06, votre resultat final doit être comme ceci: https://colorlib.com/preview/theme/mosaic/
-temps : 40 minutes
+- temps : 40 minutes
 
 ### Effets à reproduire
 Page loader - Effets sur les textes & images ( we love / we create / architecture /since ) - effet responsive avec le changement de couleur background du menu.
